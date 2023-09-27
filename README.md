@@ -1,17 +1,18 @@
 ### Hi there, I'm MrRobotical👋
 
-I'm a passionate Digital Commerce Engineer who loves building exceptional e-commerce experiences. My journey in the world of Ecommerce & web development has been marked by continuous learning and growth over the past 10 years. Outside of tech,  you'll likely find me exploring new destinations, riding down mountains or experimenting with new recipes in the kitchen.
+Dedicated digital commerce professional with a strong passion for creating outstanding e-commerce solutions.
+Over the past decade, my experience has been defined by ongoing learning and personal growth. 
 
+I've navigated many landscapes within the digital commerce realm including online store set-ups, management, cross channel marketing, product data optimization, software integrations, debugging, ecommerce conversion strategies as well as warehouse management system(WMS) operations.
 
-🚀**Interests:**
-- Building scalable e-commerce solutions
-- Crafting delightful user experiences
-- Optimizing web performance
-- Staying up-to-date with industry trends
+From decoding consumer behavior to optimizing digital touchpoints, I grasp modern retail's digital core. Beyond being a tech enthusiast, I enjoy biking, snowboarding, diverse cuisines, and global adventures. 
+I'm excited to connect with professionals who share my passion for tech, and our vibrant world.
 
-
-💡 **Student of:**:
-- JavaScript (JS)
+🛠 **Skills:**
+- HTML
+- CSS
+- JavaScript
+- NodeJS
 - React
 - Tailwind CSS
 - TypeScript
