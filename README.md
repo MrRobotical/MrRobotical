@@ -17,6 +17,8 @@ I'm excited to connect with professionals who share my passion for tech, and our
 - Tailwind CSS
 - TypeScript
 - Shopify Liquid
+- GraphQL
+- MySQL
 
 Thanks for stopping by!
 
