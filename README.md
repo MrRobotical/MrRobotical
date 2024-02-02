@@ -1,4 +1,4 @@
-### Hi there, I'm MrRobotical👋
+### Hi there, I'm Jason👋
 
 Dedicated digital commerce professional with a strong passion for creating outstanding e-commerce solutions.
 Over the past decade, I've navigated many landscapes within the digital commerce realm including online store set-ups, management, cross channel marketing, product data optimization, software integrations, debugging, ecommerce conversion strategies as well as warehouse management system(WMS) operations.
