@@ -18,7 +18,7 @@ Over the past decade, I've navigated many landscapes within the digital commerce
 - MySQL
 
 
-LinkIn:
+LinkedIn:
 https://www.linkedin.com/in/jason-digital/
 
 
