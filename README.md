@@ -16,7 +16,12 @@ Over the past decade, I've navigated many landscapes within the digital commerce
 - Express
 - Tailwind
 - MySQL
-  
+
+
+LinkIn:
+https://www.linkedin.com/in/jason-digital/
+
+
 Thanks for stopping by!
 
 <!---
