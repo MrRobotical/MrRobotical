@@ -5,7 +5,7 @@ Over the past decade, I've navigated many landscapes within the digital commerce
 
 🛠 **Skills:**
 - HTML
-- CSS
+- CSS/SASS
 - JavaScript
 - React
 - Shopify Liquid
