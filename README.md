@@ -19,7 +19,7 @@ Over the past decade, I've navigated many landscapes within the digital commerce
 - MySQL
 
  💻**Ecomm Stack:**
- - Shopify
+ - Shopify & POS
  - Klaviyo
  - Searchspring
  - Loyalty Lion
