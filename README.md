@@ -25,6 +25,7 @@ Over the past decade, I've navigated many landscapes within the digital commerce
  - Loyalty Lion
  - Product feed management sytems
  - PPC Marketing: Meta, Google, Criteo
+ - Search Console, Google Analytics, Merchant Center
  - Affiliate Marketing: Rakuten, Avant-Link
  - Syndicatd Review platforms
  - Warehouse management systems
