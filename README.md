@@ -11,24 +11,23 @@ Over the past decade, I've navigated many landscapes within the digital commerce
 - Shopify Liquid
 - GraphQL
 
-**Other Tech I've dabbled with:**
+🛠**Other Tech I've dabbled with:**
 - Node.js
 - ExpressJS
 - FireBase
 - Tailwind
 - MySQL
-<br>
 
- **Ecomm Stack:**
+ 💻**Ecomm Stack:**
  - Shopify
  - Klaviyo
  - Searchspring
  - Loyalty Lion
  - Product feed management sytems
- - PPC Markging: Meta, Google, Criteo
+ - PPC Marketing: Meta, Google, Criteo
  - Affiliate Marketing: Rakuten, Avant-Link
  - Syndicatd Review platforms
- - Warehouse management systems. 
+ - Warehouse management systems
 
 **LinkedIn:** <br>
 https://www.linkedin.com/in/jason-digital/
