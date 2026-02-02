@@ -1,40 +1,42 @@
-### Hi there, I'm Jason👋
+### Hi, I’m Jason 👋
 
-Dedicated digital commerce professional with a strong passion for creating outstanding e-commerce solutions.
-Over the past decade, I've navigated many landscapes within the digital commerce realm including online store set-ups, management, cross channel marketing, product data optimization, software integrations, debugging, ecommerce conversion strategies as well as warehouse management system(WMS) operations.
+I work at the intersection of ecommerce, product, and technology.
 
-🛠 **Skills:**
+Over the past 10+ years, I’ve built, operated, and evolved commerce businesses — from co-owning and scaling a multi-channel retail brand to partnering with teams on complex commerce builds, integrations, and optimization work. My experience spans storefronts, checkout and conversion, loyalty and retention, product data, and fulfillment systems.
+
+I’m most comfortable solving real problems that sit between code, operations, and customer experience.
+
+#### 🛠 Core Skills
 - HTML
-- CSS/SASS
+- CSS / Tailwind
 - JavaScript
-- React
 - Shopify Liquid
 - GraphQL
+- React (working knowledge)
 
-🛠**Other Tech I've dabbled with:**
+#### 🔧 Additional Tools & Tech
+- Xcode Swift UI
 - Node.js
-- ExpressJS
-- FireBase
-- Tailwind
+- Express
+- Firebase
 - MySQL
+- Modern APIs & build tooling
 
- 💻**Ecomm Stack:**
- - Shopify & POS
- - Klaviyo
- - Searchspring
- - Loyalty Lion
- - Product feed management sytems
- - PPC Marketing: Meta, Google, Criteo
- - Search Console, Google Analytics, Merchant Center
- - Affiliate Marketing: Rakuten, Avant-Link
- - Syndicatd Review platforms
- - Warehouse management systems
+#### 🛒 Commerce & Growth Stack
+- Shopify & Shopify POS
+- Checkout & CRO
+- Loyalty programs & subscriptions
+- Product feeds & structured data
+- Analytics & experimentation (GA, Search Console, Merchant Center)
+- Paid media & affiliate platforms
+- Reviews, merchandising, and onsite search
+- Warehouse & fulfillment systems (WMS)
 
-**LinkedIn:** <br>
+🔗 **LinkedIn**  
 https://www.linkedin.com/in/jason-digital/
 
+Thanks for stopping by.
 
-Thanks for stopping by!
 
 <!---
 MrRobotical/MrRobotical is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
